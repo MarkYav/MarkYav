@@ -1,46 +1,53 @@
-[![MasterHead](https://media.licdn.com/dms/image/C4E16AQEs-VFBstcQlg/profile-displaybackgroundimage-shrink_350_1400/0/1660852259797?e=1727308800&v=beta&t=EhquotqWWd73fjd_dQiQOVI2cexqqEviO3_wFZo0wC8)](https://www.linkedin.com/in/mark-yavorskyi/)
-<h1 align="center">Hello, World! 👋 I'm Mark</h1>
+[![MasterHead](https://media.licdn.com/dms/image/v2/D4E16AQEKsjeUcuno1g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728821841636?e=1759968000&v=beta&t=N_Rf31beCieOMud743dj0l8oBCmR9HtSw3WvhEKbgwc)](https://www.linkedin.com/in/mark-yavorskyi/)
+
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=MarkYav&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="MarkYav" style="padding-right:20px;" />
+</p>
+
+
+<h1 align="center">Hello, World! 👋 Mark is here</h1>
 <h3 align="center">
-  
-  AI researcher and Software Developer with 2+ years of experience in DataTech and academia.\
-  I help companies create a competitive advantage by leveraging the full power of AI in their software systems.
+  AI researcher and software developer with over 3 years of experience helping companies build safe and reliable AI-powered software.
+  I work at the intersection of Software Engineering and Machine Learning: develop production-ready systems that behave consistently, handle edge cases, and resist misuse.
 </h3>
 
-<h3 align="left">𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐬𝐤𝐢𝐥𝐥𝐬:</h3>
-<h4>
-  [𝐀𝐈]
-  
-  𝐁𝐲 𝐩𝐫𝐨𝐟𝐢𝐜𝐢𝐞𝐧𝐜𝐲: Kotlin/Java, Python, C++, JavaScript, R\
-  𝐌𝐋 𝐟𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬: PyTorch, TensorFlow (certified), scikit-learn, Huggingface SDKs, Numpy, Pandas\
-  𝐀𝐈 𝐭𝐞𝐜𝐡𝐧𝐢𝐪𝐮𝐞𝐬: Generative AI (GANs, Diffusion Models, NeRFs), NLP (NLTK, Transformers), Embeddings\
-  𝐃𝐚𝐭𝐚 𝐦𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭: Vector Databases, SQL/NoSQL, RAG/LlamaIndex/LangChain\
-  𝐈𝐧𝐟𝐫𝐚𝐬𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞: Linux (bash), Git/GitHub/GitFlow, Docker\
-  𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐚𝐧𝐝 𝐢𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐢𝐧𝐠 𝐀𝐏𝐈𝐬: Gradio, FastAPI, Flask, React/Bootstrap/CSS/JS
 
-  [𝐀𝐧𝐝𝐫𝐨𝐢𝐝]\
-  𝐔𝐈 & 𝐒𝐭𝐚𝐭𝐞 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭: Jetpack Compose/XML, ViewModel, MVI/MVVM/MVP\
-  𝐃𝐚𝐭𝐚 & 𝐍𝐞𝐭𝐰𝐨𝐫𝐤𝐢𝐧𝐠: Room, Paging, Retrofit/Ktor, Firebase\
-  𝐓𝐨𝐨𝐥𝐬: Coroutines/Flow, Dagger2/Hilt, Gradle\
-  𝐌𝐋 𝐨𝐧 𝐝𝐞𝐯𝐢𝐜𝐞: TensorFlow Lite, Pytorch Mobile, ONNX, MediaPipe, Chaquopy
+<h3 align="left">𝗜𝗻 𝗺𝘆 𝘄𝗼𝗿𝗸, 𝗜 𝗳𝗼𝗰𝘂𝘀 𝗼𝗻:</h3>
+<h4>
+  
+  • LLM agents and Multi-agent systems;\
+  • Safety and robustness of LLMs;\
+  • Retrieval-Augmented Generation (RAG).
 </h4>
 
-<!--- <br> -->
-<!--- <h3 align="left">𝐒𝐨𝐦𝐞 𝐞𝐱𝐚𝐦𝐩𝐥𝐞𝐬 𝐨𝐟 𝐦𝐲 𝐰𝐨𝐫𝐤 𝐢𝐧𝐜𝐥𝐮𝐝𝐞:</h3> -->
+
+<h3 align="left">𝗠𝘆 𝗽𝗿𝗲𝘃𝗶𝗼𝘂𝘀 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 𝗶𝗻𝗰𝗹𝘂𝗱𝗲𝘀:</h3>
 <h4>
-  <!--- 
-  • Prepared the core MVI research and proposed architecture refactoring leading to a 𝟑𝟎% 𝐫𝐞𝐝𝐮𝐜𝐭𝐢𝐨𝐧 𝐢𝐧 𝐛𝐮𝐠𝐬;\
-  • 𝐑𝐞𝐬𝐞𝐚𝐫𝐜𝐡 𝐩𝐫𝐨𝐣𝐞𝐜𝐭 at IVRL: "Adapting theoretical research to real-world applications";\
-  • Achieved a 𝟐𝐱 𝐬𝐢𝐳𝐞 𝐫𝐞𝐝𝐮𝐜𝐭𝐢𝐨𝐧 and a 𝟏.𝟑𝐱 𝐩𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞 𝐬𝐩𝐞𝐞𝐝𝐮𝐩 using quantization and post-training optimization, enabling 𝐫𝐞𝐚𝐥-𝐭𝐢𝐦𝐞 image generation on 𝐦𝐨𝐛𝐢𝐥𝐞 𝐝𝐞𝐯𝐢𝐜𝐞𝐬;\
-  • 𝟏𝐬𝐭 𝐩𝐥𝐚𝐜𝐞 in the academic rating (𝟑 𝐭𝐢𝐦𝐞𝐬 𝐢𝐧 𝐚 𝐫𝐨𝐰) out of 75 students.
-  -->
-  <br>
-  <br>
   
+  • Explainable AI techniques (counterfactual explanations, SHAP, LIME)\
+  • Edge-device inference optimisation (quantisation, ONNX, OpenVINO, PyTorch Mobile)\
+  • Image and video generation (Diffusion Models, GANs and NeRFs)
+</h4>
+
+
+<h3 align="left">𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝘀𝗸𝗶𝗹𝗹𝘀:</h3>
+<h4>
+  
+  𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀: Python, C++, Kotlin/Java, JavaScript\
+  𝗠𝗟 𝗹𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀: PyTorch, TensorFlow (certified), scikit-learn, NLTK, Huggingface SDKs, Numpy, Pandas\
+  𝗔𝗜 𝗳𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀: LlamaIndex, LangChain, AutoGen, Swarms\
+  𝗗𝗮𝘁𝗮 𝗺𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁: Vector Databases, SQL/NoSQL, Embeddings\
+  𝗜𝗻𝗳𝗿𝗮𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲: Linux (bash), Git/GitHub/GitFlow, CI/CD pipelines with GitHub Actions, Docker, AWS/GCP\
+  𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗮𝗻𝗱 𝗶𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗻𝗴 𝗔𝗣𝗜𝘀: Gradio/Streamlit, FastAPI/Flask, React/Bootstrap/CSS
+</h4>
+
+
+<!--- <br> -->
   Additionally, I am a big Speed Programming fan (Hello, LeetCode!). In that vein, I founded a local study club where we practice problem-solving and participate in competitions.
 
   I get excited about opportunities where I'm able to apply my skills and knowledge to help companies scale their businesses using AI.
 </h4>
-
 
 
 <h3 align="left">Connect with me:</h3>
