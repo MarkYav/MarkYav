@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D4E16AQEKsjeUcuno1g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728821841636?e=1759968000&v=beta&t=N_Rf31beCieOMud743dj0l8oBCmR9HtSw3WvhEKbgwc)](https://www.linkedin.com/in/mark-yavorskyi/)
+[![MasterHead](https://media.licdn.com/dms/image/v2/D4E16AQEKsjeUcuno1g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728821841636?e=1764806400&v=beta&t=Mj5NDFm73MzOLZnniVl12R7lIGEmTQUFTFwuJxbMExc)](https://www.linkedin.com/in/mark-yavorskyi/)
 
 
 <p align="left">
