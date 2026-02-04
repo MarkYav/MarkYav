@@ -61,8 +61,3 @@
 <p align="center">
   <img align="center" src="https://github-profile-trophy-tawny.vercel.app/?username=markyav&margin-w=16&rank=-C,-B,-?&column=-1" alt="markyav" />
 </p>
-
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=markyav&" alt="markyav" />
-</p>
