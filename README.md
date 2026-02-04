@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D4E16AQEKsjeUcuno1g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728821841636?e=1764806400&v=beta&t=Mj5NDFm73MzOLZnniVl12R7lIGEmTQUFTFwuJxbMExc)](https://www.linkedin.com/in/mark-yavorskyi/)
+[![MasterHead](https://github.com/user-attachments/assets/1d6f2f2a-35a3-403d-a046-cc6fdaa75782)](https://www.linkedin.com/in/mark-yavorskyi/)
 
 
 <p align="left">
